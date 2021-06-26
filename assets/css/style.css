@@ -67,9 +67,15 @@ button{
   font-size:17px;
   color: #4e4f5c;
 }
+button:hover{
+  cursor: pointer;
+}
 .buttonLog{
   background-color: #6d71f9;
   color: #ffff;
+}
+.buttonLog:hover{
+  cursor: pointer;
 }
 h6{
   padding: 0;
