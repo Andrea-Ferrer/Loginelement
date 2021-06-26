@@ -19,7 +19,7 @@ body {
   background-color: #ffff;
   width: 320px;
   height: 540px;
-  margin: 0 auto;
+  margin: 30px auto;
   box-shadow: 0 20px 40px 0 rgba(204, 204, 204, 0.1);
 }
 .contentLog{
